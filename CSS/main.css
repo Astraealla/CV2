@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-items: stretch; 
+}
+
+p{
+    color: white;
+}
+
