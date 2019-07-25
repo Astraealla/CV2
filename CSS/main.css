@@ -1,9 +1,18 @@
-.container{
-    display: flex;
-    justify-items: stretch; 
+
+.result{
+    background-color: black;
+    height: 50px;
+    width: 230px;
 }
 
 p{
     color: white;
 }
 
+.button{
+    height: 50px;
+    width: 240px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
