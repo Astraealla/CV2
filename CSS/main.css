@@ -1,12 +1,12 @@
-
-.result{
-    background-color: black;
+#result{
+    background-color: black;  
     height: 50px;
     width: 230px;
 }
 
 p{
     color: white;
+    text-align: right;
 }
 
 .button{
